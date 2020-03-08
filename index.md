@@ -1,4 +1,4 @@
-[Discord-Gilde:](https://discord.gg/FFBv5hu)
+[Discord-Gilde](https://discord.gg/FFBv5hu)
 
 
 ## Welcome to GitHub Pages
