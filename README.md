@@ -13,7 +13,7 @@ bundle exec jekyll serve
 Wiki-Artikel liegen im Ordner`_wiki`.
 Sie sind in einfachem [Markdown](https://www.heise.de/mac-and-i/downloads/65/1/1/6/7/1/0/3/Markdown-CheatSheet-Deutsch.pdf) geschrieben und können daher schnell von Laien editiert werden.
 
-## Wiki-Artikel erstelle
+## Wiki-Artikel erstellen
 Ein Wiki-Artikel hat folgende Struktur:
 ```
 ---
