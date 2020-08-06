@@ -25,7 +25,7 @@ keywords:
 - Stickpunkt2
 ---
 
-Der Inhalt eines Artikels:
+Der Inhalt eines Artikels.
 ```
 * `title`: Der Titel des Artikels; wird für den HTML-Tag`<title>` und die Seitennavigation verwendet.
 * `headline`: Die Überschrift des Artikels; wird als `<h1>` dargestellt. Ohne Überschrift wird der Titel verwendet.
