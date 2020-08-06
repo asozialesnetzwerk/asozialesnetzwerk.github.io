@@ -1,3 +1,8 @@
+---
+title: Hauptseite
+layout: default
+---
+
 ## Willkommen auf der Webseite des asozialen Netzwerkes
 Wir sind auf [dieser](https://asozialesnetzwerk.github.io/discord/) Discordgilde zu finden.
 

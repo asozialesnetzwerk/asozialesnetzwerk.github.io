@@ -1,0 +1,3 @@
+---
+---
+[{% for wiki_article in site.wiki %}{"title":{{ wiki_article.title | jsonify }},"keywords":{{ wiki_article.keywords | jsonify }},"url":{{ wiki_article.url | jsonify }},"content":{{ wiki_article.content | jsonify }}}{% if forloop.last == false %},{% endif %}{% endfor %}]

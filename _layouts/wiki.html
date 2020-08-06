@@ -1,0 +1,49 @@
+---
+layout: default
+---
+<br>
+
+<div class="container">
+    <div class="row">
+        <div class="col-lg-3 order-lg-last">
+            <div class="wiki-navigation-toggle d-lg-none">
+                <a class="btn btn-primary" data-toggle="collapse" href="#wiki-navigation" role="button" aria-expanded="true" aria-controls="wiki-navigation" style="width: 100%">
+                    Toggle Navigation
+                </a>
+                <br><br>
+            </div>
+            <div class="collapse show" id="wiki-navigation">
+                {% for category in site.data.wiki-categories %}
+                    <h4>{{ category.title }}</h4>
+                    <div class="list-group">
+                        {% assign sorted_articles = site.wiki | sort:"position" %}
+                        {% for item in sorted_articles %}
+                            {% if item.path contains category.folder %}
+                                <a href="{{ item.url }}" class="list-group-item list-group-item-action {%if page.url == item.url %}active{% endif %}">{{ item.title }}</a>
+                            {% endif %}
+                        {% endfor %}
+                    </div>
+                    <br>
+                {% endfor %}
+            </div>
+        </div>
+        <div class="col-lg-9 order-lg-first wiki-container">
+            <h1 id="wiki-headline">{% if page.headline %}{{ page.headline }}{% else %}{{ page.title }}{% endif %}</h1>
+            {{ content }}
+
+            <hr>
+            <div id="wiki-footer">
+                Wenn du Lust hast trete gerne unserem Discord-Server bei: <a href="https://asozialesnetzwerk.github.io/discord">Einladung</a>
+            </div>
+
+            <p class="text-center">
+                <br>
+                <a class="btn btn-primary" target="_blank" href="https://github.com/asozialesnetzwerk/asozialesnetzwerk.github.io/blob/master/{{ page.path }}" role="button">
+                    <i class="fas fa-pencil-alt"></i>Verbessere diese Seite
+                </a>
+            </p>
+        </div>
+    </div>
+</div>
+
+<br>

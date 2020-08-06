@@ -1,0 +1,28 @@
+<nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+    <div class="container">
+        <a class="navbar-brand" href="/">
+            <img src="/img/logonav.svg" width="35" height="35" class="d-inline-block align-top logo-on-red" alt="">
+            Asoziales Netzwerk
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item {% if page.category == "wiki" %}active{% endif %}">
+                    <a class="nav-link" href="/wiki/">Wiki</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="https://github.com/asozialesnetzwerk/">GitHub</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="https://asozialesnetzwerk.github.io/discord" target="_blank">Discord Server</a>
+                </li>
+            </ul>
+
+            <form class="form-inline my-2 my-lg-0 dropdown">
+                <input id="search-box" class="form-control mr-sm-2" type="search" autocomplete="off" placeholder="Search" aria-label="Search">
+            </form>
+        </div>
+    </div>
+</nav>
