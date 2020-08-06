@@ -1,7 +1,7 @@
 # Webseite des Asozialen Netzwerkes
 
-## How to run the website locally
-Make sure you have [RubyGems](https://rubygems.org/) installed.
+## Webseite lokal nutzen
+[RubyGems](https://rubygems.org/) installieren:
 ```
 gem install bundler jekyll
 git clone https://github.com/asozialesnetzwerk/asozialesnetzwerk.github.io.git
@@ -9,25 +9,25 @@ cd asozialesnetzwerk.github.io
 bundle exec jekyll serve
 ```
 
-## How to edit wiki articles
-Wiki articles are located in the `_wiki` folder.
-They are using simple markdown, which should make it fairly easy to modify them.
+## Wiki-Artikel editieren
+Wiki-Artikel liegen im Ordner`_wiki`.
+Sie sind in einfachem [Markdown](https://www.heise.de/mac-and-i/downloads/65/1/1/6/7/1/0/3/Markdown-CheatSheet-Deutsch.pdf) geschrieben und können daher schnell von Laien editiert werden.
 
-## How to create wiki articles
-A wiki article has the following structure:
+## Wiki-Artikel erstelle
+Ein Wiki-Artikel hat folgende Struktur:
 ```
 ---
-title: "Article title"
-headline: "Article headline"
+title: "Artikel-Titel"
+headline: "Artikel-Überschrift
 position: 3
 keywords:
-- keyword1
-- keyword2
+- Stichpunkt1
+- Stickpunkt2
 ---
 
-The content of the article.
+Der Inhalt eines Artikels:
 ```
-* `title`: The title of the article, which will be used for the `<title>` html tag and the side navigation
-* `headline`: The headline of the article, displayed as `<h1>`. If not set, the title is used.
-* `position`: The position of the article in its category. Starting with `1`.
-* `keywords`: A list with keywords used for search. Don't repeat the title or headline here.
+* `title`: Der Titel des Artikels; wird für den HTML-Tag`<title>` und die Seitennavigation verwendet.
+* `headline`: Die Überschrift des Artikels; wird als <h1> dargestellt. Ohne Überschrift wird der Titel verwendet.
+* `position`: Die Position des Artikels in der entsprechenden Kategorie; startet mit `1`.
+* `keywords`: Eine Keyword-Liste, die für die Suche verwendet wird. Titel oder Überschrift sollten hier nicht auftauchen.
