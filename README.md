@@ -28,6 +28,6 @@ keywords:
 Der Inhalt eines Artikels:
 ```
 * `title`: Der Titel des Artikels; wird für den HTML-Tag`<title>` und die Seitennavigation verwendet.
-* `headline`: Die Überschrift des Artikels; wird als <h1> dargestellt. Ohne Überschrift wird der Titel verwendet.
+* `headline`: Die Überschrift des Artikels; wird als `<h1>` dargestellt. Ohne Überschrift wird der Titel verwendet.
 * `position`: Die Position des Artikels in der entsprechenden Kategorie; startet mit `1`.
 * `keywords`: Eine Keyword-Liste, die für die Suche verwendet wird. Titel oder Überschrift sollten hier nicht auftauchen.
