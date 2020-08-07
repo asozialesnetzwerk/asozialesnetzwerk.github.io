@@ -30,15 +30,65 @@ Das Abschicken der Mails hatten wir eigentlich auf 15:00 Uhr terminiert, jedoch 
 ### Inhalte der Mails an die Politiker*Innen:
 
 Die Texte sollten den Politikern Dank ausdrücken, sie für ihre Arbeit loben.
-Hier ein Beispiel:
 
-„Sehr geehrtes Mitglied des Landtages/Bundestages,
+#### Text 1:
+```
+Hallo,
 
-Wir als das Asoziale Netzwerk möchten Ihnen hiermit danken, dass Sie sich täglich für unsere Demokratie, die Interessen Ihrer Wähler und noch viel mehr aufopfern, und dafür sorgen, dass unsere Gesellschaft weiterhin funktioniert, egal, welche unterschiedlichen oder gar gegensätzlichen Meinungen wir vertreten.
-Vielen Dank und haben Sie noch einen schönen Tag. 
+Heute ist der Internationale Tag der Freundschaft. Um diesen gebührend zu feiern, habe ich eine Bitte an Sie: Gehen Sie zu einem Mitglied des Parlaments aus einer Fraktion, mit der Sie wenig Gemeinsamkeiten haben und bieten Sie sich als Gesprächspartner an, lernen Sie sich kennen und werden Sie Freunde!
+Hass spaltet, Freundschaft verbindet. Sorgen Sie mit interfraktionellen Freundschaften für mehr Liebe und Respekt. Im Parlament und in der Gesellschaft.
 
+Sie werden sicherlich auch einige der anderen Mitglieder nicht mögen, dass muss auch nicht sein. Aber fragen Sie sich doch einfach mal, warum. Prüfen Sie sich und entscheiden Sie dann, ob Sie diese Meinung behalten.
+
+In diesem Sinne: Lassen Sie uns Hass bekämpfen und Freundschaft walten lassen!
+Und behalten Sie den Inhalt dieser Anti-Droh-Mail nicht für sich, sondern teilen Sie ihn mit Ihren Mitmenschen und leben Sie ihn.
+Vielen Dank!
+```
+vom Landeskirchenmusikdirektor
+
+#### Text 2:
+```
+Guten Abend,
+
+Sie sind Parlamentsmitglied und als solches häufig Hass ausgesetzt, genau wie die anderen Mitglieder Ihres Hauses.
+Wir alle wissen und sind der Meinung, dass das nicht gut ist. Daher möchte ich Sie bitten, etwas aktiv dagegen zu tun:
+
+Heute, zum internationalen Tag der Freundschaft, könnten Sie sich überlegen, warum Sie von Menschen gehasst werden, ob Sie die Schuld dafür tragen, dass andere gehasst werden, oder ob Sie selbst aktiv Leute hassen, bedrohen oder noch schlimmeres.
+Ich bitte Sie innigst: Denken Sie nach. Wenn Sie keinen Grund haben, jemanden zu hassen, ist das doch überflüssig. Wenn dann alle so denken würden, könnte man viel Hass entgegnen und damit Ihre Freude an der politischen Arbeit, Freundschaft und Verwandtschaft immer weiter wachsen lassen.
+
+Ich hoffe, dass diese Anti-Droh-Mail Sie zum Nachdenken bringt, und dass wir bald ein angenehmes gesellschaftliches Klima haben, in welchem Hass eine Ausnahme ist.
+```
+vom Landeskirchenmusikdirektor
+
+#### Text 3:
+```
+Sehr geehrtes Mitglied des Landtages/Bundestages
+
+Wir als das Asoziale Netzwerk möchten Ihnen hiermit danken, dass Sie sich täglich für unsere Demokratie, die Interessen Ihrer Wähler und noch viel mehr aufopfern, und dafür sorgen, dass unsere Gesellschaft weiterhin funktioniert, egal welche unterschiedlichen oder gar gegensätzlichen Meinungen wir vertreten. Vielen Dank und haben Sie noch einen schönen Tag. 
 
 Vielen Dank, dass Sie sich diese Anti-Droh-Mail des Asozialen Netzwerkes durchgelesen haben!
+```
+vom Infizierten
+
+#### Text 4:
+```
+Guten Tag,
+
+da Sie als Landtagsmitglied / Bundestagsmitglied leider viel zu häufig angefeindet werden, möchte ich zum Internationalen Tag der Freundschaft mit einer netten Botschaft an sie herantreten:
+Sie und Ihre Arbeit bedeuten mir viel. Sie sorgen dafür, dass unser Land funktioniert und bilden eine wichtige Meinung der Gesellschaft im Parlament ab. Sie vertreten die Interessen Ihrer Wähler (teilweise auch von noch mehr) und opfern sich für sie regelrecht auf.
+Sie sind ein besonderer Mensch, der seinen Mitbürgern in jeder erdenklichen Situation helfen wollen würde.
+
+Für das alles möchte ich mich bei Ihnen Bedanken und machen Sie weiter.
+
+Weil echte Freunde einem aber auch immer einem Ratschlag geben sollen, möchte ich Ihnen auch einen auf den Weg geben:
+Es gibt aktuell eine sehr schlechte Stimmung. Bitte prüfen Sie und denken Sie darüber nach, inwieweit auch Sie dafür eine Teilverantwortung tragen und ändern Sie sich dementsprechend. Und denken Sie in diesem Fall nicht an andere, sondern an sich selbst! Um es mit der Bibel zu sagen, Apostelgeschichte 3,19: "Tut nun Buße und bekehrt euch, dass eure Sünden getilgt werden."
+
+Dafür bedanke ich mich bei Ihnen. Fühlen Sie sich mit dieser Anti-Droh-Mail des asozialen Netzwerkes gedrückt. 
+Danke für Ihr Engagement
+```
+vom Landeskirchenmusikdirektor
+
+
 
 --------------------------------------------------------------------------------------------
 
@@ -51,7 +101,7 @@ Vielen Dank“
 Wir haben auch lange darüber diskutiert ob wir auch E-Mails an die AfD schicken sollen. Letztendlich haben wir uns aus folgenden Gründen dafür entschieden, obwohl uns klar war, dass die AfD mit dem Klima das sie verbreitet ein Stückweit mit Schuld an den Drohmails der NSU 2.0 trägt:
 1. Wer sich für mehr Liebe und Freundschaft einsetzt, sollte dabei nicht bestimmte Gruppen ausgrenzen.
 2. Gerade der AfD sollte man keine Munition überlassen, um auf uns zu schießen.
-3. Wir haben uns in jedem Text von politischen Inhalten differenziert und klar gemacht, dass wir nicht unbedingt die gleiche Meinung haben.
+3. Wir haben uns in jedem Text von politischen Inhalten distanziert und klar gemacht, dass wir nicht unbedingt die gleiche Meinung haben.
 
 
 #### Dokumente, die zu der Aktion erstellt wurden, sind unter https://github.com/asozialesnetzwerk/Dokumente gesammelt worden und öffentlich einsehbar.
