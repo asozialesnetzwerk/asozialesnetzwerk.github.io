@@ -15,3 +15,4 @@ Wir sind auf [dieser](https://asozialesnetzwerk.github.io/discord/) Discordgilde
 - Ein Browserplugin, welches Wörter vertauscht : [https://github.com/asozialesnetzwerk/VertauschteWoerterPlugin](https://github.com/asozialesnetzwerk/VertauschteWoerterPlugin)
 - Matrix-Chat-Client: [https://asozialesnetzwerk.github.io/chat/](https://asozialesnetzwerk.github.io/chat/)
 - Ein permanenter Einladungslink zu unserer Discordgilde: [https://asozialesnetzwerk.github.io/discord/](https://asozialesnetzwerk.github.io/discord/)
+- Kurze Sounds aus den Känguru Chroniken: [https://asozialesnetzwerk.github.io/kaenguru-soundboard/](https://asozialesnetzwerk.github.io/kaenguru-soundboard/)
