@@ -16,3 +16,4 @@ Wir sind auf [dieser](https://asozialesnetzwerk.github.io/discord/) Discordgilde
 - Matrix-Chat-Client: [https://asozialesnetzwerk.github.io/chat/](https://asozialesnetzwerk.github.io/chat/)
 - Ein permanenter Einladungslink zu unserer Discordgilde: [https://asozialesnetzwerk.github.io/discord/](https://asozialesnetzwerk.github.io/discord/)
 - Kurze Sounds aus den Känguru Chroniken: [https://asozialesnetzwerk.github.io/kaenguru-soundboard/](https://asozialesnetzwerk.github.io/kaenguru-soundboard/)
+- Ein Hangman-Solver, der bei Hangman hilft: [https://asozialesnetzwerk.github.io/Hangman-Solver](https://asozialesnetzwerk.github.io/Hangman-Solver)
