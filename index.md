@@ -17,3 +17,4 @@ Wir sind auf [dieser](https://asozialesnetzwerk.github.io/discord/) Discordgilde
 - Ein permanenter Einladungslink zu unserer Discordgilde: [https://asozialesnetzwerk.github.io/discord/](https://asozialesnetzwerk.github.io/discord/)
 - Kurze Sounds aus den Känguru Chroniken: [https://asozialesnetzwerk.github.io/kaenguru-soundboard/](https://asozialesnetzwerk.github.io/kaenguru-soundboard/)
 - Ein Hangman-Solver, der bei Hangman hilft: [https://asozialesnetzwerk.github.io/Hangman-Solver](https://asozialesnetzwerk.github.io/Hangman-Solver)
+- Ideensammlung für Anti-Terror-Anschläge: [https://etherpad.mister-muffin.de/p/Anti-Terror-Anschlags-Ideen](https://etherpad.mister-muffin.de/p/Anti-Terror-Anschlags-Ideen)
