@@ -19,3 +19,4 @@ Wir sind auf [dieser](https://asozial.org/discord/) Discordgilde zu finden.
 - Ein Hangman-Solver, der bei Hangman hilft: [https://asozial.org/Hangman-Solver](https://asozial.org/Hangman-Solver)
 - Ideensammlung für Anti-Terror-Anschläge: [https://etherpad.mister-muffin.de/p/Anti-Terror-Anschlags-Ideen](https://etherpad.mister-muffin.de/p/Anti-Terror-Anschlags-Ideen)
 - Känguru Comics: [https://asozial.org/KaenguruComics](https://asozial.org/KaenguruComics)
+- Mathe-Spiel: [https://asozial.org/Mathe-Spiel/](https://asozial.org/Mathe-Spiel/)
