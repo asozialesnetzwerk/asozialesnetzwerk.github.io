@@ -4,7 +4,7 @@ layout: default
 ---
 
 ## Willkommen auf der Webseite des Asozialen Netzwerkes
-Wir sind auf [dieser](https://asozial.org/discord) Discord Gilde zu finden.
+Wir sind auf [dieser](https://asozial.net/discord/) Discord Gilde zu finden.
 
 
 ### Unsere Projekte:
